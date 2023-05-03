@@ -1,0 +1,23 @@
+.table.table-detail{
+    color: red;
+}
+.table.table-detail tr td:nth-child(1){
+    min-width: 144px;
+    width: 144px;
+}
+.table.table-detail tr td:nth-child(2){
+    width: 5px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.table.table-detail tr td:nth-child(3){
+    min-width: 144px;
+    width: 144px;
+    padding-left: 0;
+}
+.table tr td a{
+    text-decoration: none;
+}
+.table tr td a:hover{
+    color: brown;
+}
